@@ -1,5 +1,11 @@
 
-# Comparing Rewinding and Fine-tuning in Neural Network Pruning: Reproducibility Challenge 2021
+# Comparing Rewinding and Fine-tuning
+
+This repository was created during Reproducibility Challenge 2021.
+
+Full title:
+> Comparing Rewinding and Fine-tuning in Neural Network Pruning
+
 [![DOI](https://zenodo.org/badge/387544125.svg)](https://zenodo.org/badge/latestdoi/387544125)
 
 ### Links
